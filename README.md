@@ -1,2 +1,2 @@
-# Event-Delegation
-Created with CodeSandbox
+### Event-Delegation
+
