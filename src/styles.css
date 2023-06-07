@@ -1,0 +1,14 @@
+body {
+  font-family: sans-serif;
+}
+
+#wrapper {
+  display: flex;
+}
+
+.box {
+  margin: 10px;
+  padding: 20px;
+  width: 50%;
+  background-color: blue;
+}
